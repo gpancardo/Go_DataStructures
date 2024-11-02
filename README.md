@@ -1,6 +1,5 @@
 # Go_DataStructures
-## ** Data Structures implemented on Go **
----
+## <b> Data Structures implemented on Go </b>
 ### Data Structures covered:
 1.What are Data Structures?
 2. Matrix
