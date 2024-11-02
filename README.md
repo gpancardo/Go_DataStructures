@@ -1,8 +1,11 @@
 # Go_DataStructures
 ## <b> Data Structures implemented on Go </b>
 ### Data Structures covered:
-1.What are Data Structures?
-2. Matrix
+<ol>
+<li>What are Data Structures?</li>
+<li>Matrix</li>
+</ol>
+
 ---
 ### What are Data Structures?
 Ways of organizing data to make it easier to operate, utilise or store.
